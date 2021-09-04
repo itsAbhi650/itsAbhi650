@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... Win32 API
 - 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ... nothing! I'm a noob
-- 📫 How to reach me ... //will be updated
 
 <!---
 itsAbhi650/itsAbhi650 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
